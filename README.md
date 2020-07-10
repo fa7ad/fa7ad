@@ -7,5 +7,5 @@ Here are some bullet points:
 - 🌱 I’m currently learning [ReasonML](http://reasonml.github.io/)
 - 👯 I’m looking to collaborate on *any small JS library (that I can understand and find useful 😇 )*
 - 💬 Ask me about *Prog & Death Metal Music, FP concepts and some cool JS libraries*
-- 📫 How to reach me: *mail me at [setname.fahad+gh AT gmail.com](setname.fahad+gh@gmail.com)*
+- 📫 How to reach me: *mail me at [setname.fahad+gh AT gmail.com](mailto:setname.fahad+gh@gmail.com)*
 - 😄 Pronouns: He/Him
