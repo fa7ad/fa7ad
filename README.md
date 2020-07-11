@@ -6,7 +6,7 @@ My name is Fahad ([/fähɑð/](http://ipa-reader.xyz/?text=f%C3%A4h%C9%91%C3%B0&
 
 [![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](https://github.com/fa7ad?tab=repositories&q=&type=&language=javascript) [![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://forthebadge.com/) [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](#)
 
-- 🔭 I’m currently working on [a Reason+ReactNative based tic-tac-toe game](https://github.com/fa7ad/katakati)
+- 🔭 I’m currently working on [a ReactNative based tic-tac-toe game](https://github.com/fa7ad/katakati)
 - 🌱 I’m currently learning [ReasonML](http://reasonml.github.io/)
 - 👯 I’m looking to collaborate on *any small JS library (that I can understand and find useful 😇 )*
 - 💬 Ask me about *Prog & Death Metal Music, FP concepts and some cool JS libraries*
