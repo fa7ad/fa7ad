@@ -8,7 +8,7 @@ I'm a Software Engineer from Dhaka, Bangladesh. I specialize in creating perform
 - 🌱 I’m currently learning [ReasonML](http://reasonml.github.io/)
 - 👯 I’m looking to collaborate on **any small JS library (preferably with a FP focus)**
 - 💬 Ask me about **react, redux, ramda, js, functional programming, and music**
-- 📝 I ~~regularly~~ write articles on [https://dev.to/fa7ad](https://dev.to/fa7ad)
+- 📝 I ~~regularly~~ write articles on my blog [mildlyboring.com](https://mildlyboring.com) and [dev.to/fa7ad](https://dev.to/fa7ad)
 - ⚡ Fun fact **I honestly think mochas are the best beverage mankind has created**
 - 📫 How to reach me **shoot a mail at *setname.fahad+gh AT gmail.com***
 - 😄 Pronouns: He/Him
