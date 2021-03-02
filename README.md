@@ -14,7 +14,7 @@ I enjoy learning about new technology (languages/frameworks/libraries/syntax…)
 
 ### Rapidfire
 
-- 🔭 I’m currently working on [Mildly Boring](https://mildlyboring.com).
+- 🔭 I’m currently working on [Mildly Boring (my blog)](https://mildlyboring.com).
 - 🌱 I’m currently learning [ReScript](https://rescript-lang.org/) and [Kubernetes](https://kubernetes.io/).
 - 👯 I’m looking to collaborate on **building an open-source voice assistant that speaks Bengali** (mail me if you want to potentially work together on something like that).
 - 💬 Ask me about **react, redux, ramda, js, functional programming, and music**.
