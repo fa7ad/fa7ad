@@ -7,9 +7,7 @@
 ### Glad to see you here!
 
 I'm a Software Engineer from Dhaka, Bangladesh. I specialize in creating performant and scalable reactive web apps using React and Node.
-
-I'm currently working at [@dh-health](https://dh.health). I'm also in the process of completing my undergrad at [AIUB](https://aiub.edu).
-
+I'm currently working as a *Software Engieer* at [@dh-health](https://dh.health).
 I enjoy learning about new technology (languages/frameworks/libraries/syntax…) and I'm usually willing to pay the early-adopter tax if I think the tech is awesome.
 
 ### Rapidfire
