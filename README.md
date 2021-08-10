@@ -1,4 +1,4 @@
-<video src="https://media.giphy.com/media/Kc2GKprlwHTTizRfmu/giphy.mp4" autoplay loop />
+![](https://media.giphy.com/media/Kc2GKprlwHTTizRfmu/source.gif)
 
 ## Hi 👋, I'm Fahad ([/fähɑð/](http://ipa-reader.xyz/?text=f%C3%A4h%C9%91%C3%B0&voice=Amy)).
 
