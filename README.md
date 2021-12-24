@@ -25,9 +25,9 @@ I enjoy learning about new technology (languages/frameworks/libraries/syntax…)
 
 ### Github Stats
 
-![](https://github-readme-stats.vercel.app/api?username=fa7ad&show_icons=true&count_private=true&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=fa7ad&show_icons=true&count_private=true&hide_border=true&utm_source=12325)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fa7ad&hide_border=true&layout=compact&utm_source=1232)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=fa7ad&hide_border=true&layout=compact&utm_source=12325)
 
 ### Badges
 
