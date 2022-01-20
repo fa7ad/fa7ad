@@ -4,7 +4,7 @@
 
 ### Glad to see you here!
 
-I'm a Software Engineer from Dhaka, Bangladesh; living in Munich, Germany. I specialize in creating performant and scalable reactive web apps using React and Node.
+I'm a Software Engineer from Bangladesh; living in Munich, Germany. I specialize in creating performant and scalable reactive web apps using React and Node.
 I'm currently working as a *Software Engineer* at [@Westwing-Home-and-Living](https://www.westwing.com/home).
 I enjoy learning about new technology (languages/frameworks/libraries/syntax…) and I'm usually willing to pay the early-adopter tax if I think the tech is awesome.
 
