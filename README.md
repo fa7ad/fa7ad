@@ -11,7 +11,7 @@ I enjoy learning about new technology (languages/frameworks/libraries/syntax…)
 ### Rapidfire
 
 - 🔭 I’m currently "working" on [Mildly Boring (my blog)](https://mildlyboring.com).
-- 🌱 I’m currently learning [how to make good *cocktails*🍹]().
+- 🌱 I’m currently learning [how to make good *cocktails*🍹](https://mildlyboring.com/posts/amalfi-sunset?utm_source=github).
 - 👯 I’m looking to collaborate on a techno track (PS. send me your samples 😁)
 - 💬 Ask me about **react, redux, ramda, js, functional programming, and music**.
 - 📝 I ~regularly~ write articles on my blog [mildlyboring.com](https://mildlyboring.com) and [dev.to/fa7ad](https://dev.to/fa7ad).
