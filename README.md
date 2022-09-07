@@ -1,10 +1,12 @@
 ## Hi 👋, I'm Fahad ([/fähɑð/](http://ipa-reader.xyz/?text=f%C3%A4h%C9%91%C3%B0&voice=Amy))
 
-[![github](https://img.shields.io/badge/github-%2324292e.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fa7ad) [ ![twitter](https://img.shields.io/badge/twitter-%2300acee.svg?style=for-the-badge&logo=twitter&logoColor=white) ](https://twitter.com/dev_fahad) [ ![devto](https://img.shields.io/badge/dev.to-%2308090A.svg?style=for-the-badge&logo=dev.to&logoColor=white) ](https://dev.to/fa7ad) [ ![linkedin](https://img.shields.io/badge/linkedin-%231E77B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ](https://linkedin.com/in/fa7ad) [![stackoverflow](https://img.shields.io/badge/stackoverflow-%23F28032.svg?style=for-the-badge&logo=stackoverflow&logoColor=white) ](https://stackoverflow.com/users/3639506/trve-fa7ad)[![ko-fi](https://img.shields.io/badge/buy_me_a_ko--fi-FF5E5B.svg?style=for-the-badge&logo=ko-fi&logoColor=white) ](https://ko-fi.com/fa7ad)
+[![github](https://img.shields.io/badge/github-%2324292e.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fa7ad) [ ![twitter](https://img.shields.io/badge/twitter-%2300acee.svg?style=for-the-badge&logo=twitter&logoColor=white) ](https://twitter.com/dev_fahad) [ ![devto](https://img.shields.io/badge/dev.to-%2308090A.svg?style=for-the-badge&logo=dev.to&logoColor=white) ](https://dev.to/fa7ad) [ ![linkedin](https://img.shields.io/badge/linkedin-%231E77B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ](https://linkedin.com/in/fa7ad) [![stackoverflow](https://img.shields.io/badge/stackoverflow-%23F28032.svg?style=for-the-badge&logo=stackoverflow&logoColor=white) ](https://stackoverflow.com/users/3639506/trve-fa7ad)
+
+<!--[![ko-fi](https://img.shields.io/badge/buy_me_a_ko--fi-FF5E5B.svg?style=for-the-badge&logo=ko-fi&logoColor=white) ](https://ko-fi.com/fa7ad) -->
 
 ### Glad to see you here!
 
-I'm a Software Engineer from Bangladesh; living in Berlin, Germany. I specialize in creating performant and scalable reactive web apps using React and Node. I'm currently working as a *Front-end Engineer* at [Amazon Web Services](https://github.com/aws).  
+I'm a Software Engineer from Bangladesh; living in Berlin, Germany. I make web apps using React and stuff; currently working as a *Front-end Engineer* at [Amazon Web Services](https://github.com/aws).  
 I enjoy learning about new technology (languages/frameworks/libraries/syntax…) and I'm usually willing to pay the early-adopter tax if the tech is awesome.
 
 ### Rapidfire
