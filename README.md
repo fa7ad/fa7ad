@@ -12,10 +12,10 @@ I enjoy learning about new technology (languages/frameworks/libraries/syntax…)
 ### Rapidfire
 
 - 🔭 **I’m currently "working" on:** [Mildly Boring (my blog)](https://mildlyboring.com).
-- 🌱 **I’m currently learning:** Logic Pro X (switching from FL Studio)
+- 🌱 **I’m currently learning:** Logic Pro X
 - 👯 **I’m looking to collaborate on:** a techno track (PS. send me your samples 😁)
 - 💬 **Ask me about:** **react, redux, ramda, js, functional programming, and music**.
-- 📝 **I ~regularly~ write articles on:** my blog [mildlyboring.com](https://mildlyboring.com) and [dev.to/fa7ad](https://dev.to/fa7ad).
+- 📝 **I _<sup><sub>very occassionally</sub></sup>_ write articles on:** my blog [mildlyboring.com](https://mildlyboring.com) and [dev.to/fa7ad](https://dev.to/fa7ad).
 - 🔥 **Hot Take:** *coffee is the best beverage mankind has ever created*.
 - 📫 **How to reach me:** shoot a mail at _setname.fahad AT gmail.com_.
 - 💅 **Pronouns:** He/Him.
@@ -24,7 +24,3 @@ I enjoy learning about new technology (languages/frameworks/libraries/syntax…)
 |![](https://github-readme-stats.vercel.app/api?username=fa7ad&show_icons=true&count_private=true&hide_border=true&utm_source=123b25) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fa7ad&layout=compact&hide_border=true&show_icons=true&utm_source=123bm25) |
 |--:|:--|
 | ![](https://github-readme-streak-stats.herokuapp.com/?user=fa7ad&utm_source=h12b3m25) | [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fahadiam&cover_image=false&theme=default&bar_color=ffffff&bar_color_cover=true&utm_source=12b3m23)](https://spotify-github-profile.vercel.app/api/view?uid=fahadiam&redirect=true) |
-
-### Badges
-
-[![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](https://github.com/fa7ad?tab=repositories&q=&type=&language=javascript) [![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://forthebadge.com/) [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](#)
