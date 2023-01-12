@@ -21,6 +21,6 @@ I enjoy learning about new technology (languages/frameworks/libraries/syntax…)
 - 💅 **Pronouns:** He/Him.
 
 ### Github Stats
-|![](https://github-readme-stats.vercel.app/api?username=fa7ad&show_icons=true&count_private=true&hide_border=true&utm_source=123b25) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fa7ad&layout=compact&hide_border=true&show_icons=true&utm_source=123bm25) |
+|![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fa7ad&show_icons=true&count_private=true&hide_border=true&utm_source=123b25) | ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fa7ad&layout=compact&hide_border=true&show_icons=true&utm_source=123bm25) |
 |--:|:--|
 | ![](https://github-readme-streak-stats.herokuapp.com/?user=fa7ad&utm_source=h12b3m25) | [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fahadiam&cover_image=false&theme=default&bar_color=ffffff&bar_color_cover=true&utm_source=12b3m23)](https://spotify-github-profile.vercel.app/api/view?uid=fahadiam&redirect=true) |
