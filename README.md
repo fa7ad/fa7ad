@@ -6,7 +6,7 @@
 
 ### Glad to see you here!
 
-I'm a Software Engineer from Bangladesh; living in Berlin, Germany. I make web apps using React and stuff; currently working as a *Front-end Engineer* at [Amazon Web Services](https://github.com/aws).  
+I'm a Software Engineer from Bangladesh; living in Berlin, Germany. I make web apps using React and stuff.  
 I enjoy learning about new technology (languages/frameworks/libraries/syntax…) and I'm usually willing to pay the early-adopter tax if the tech is awesome.
 
 ### Rapidfire
