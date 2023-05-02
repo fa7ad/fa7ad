@@ -24,8 +24,9 @@ I make web apps using [React] and stuff. I enjoy learning about new technology (
 
 ### Github Stats
 
-![][gh-stats-widget] ![][streak-widget]  
-![][mul-widget] [![][spotify-widget]][spotify-link]
+|![][gh-stats-widget] | ![][streak-widget]                  |
+| :-----------------: | :---------------------------------: |
+|![][mul-widget]      | [![][spotify-widget]][spotify-link] |
 
 [linkedin-badge]: https://img.shields.io/badge/linkedin-%231E77B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
 [devto-badge]: https://img.shields.io/badge/dev.to-%2308090A.svg?style=for-the-badge&logo=dev.to&logoColor=white
