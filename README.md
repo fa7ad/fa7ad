@@ -1,9 +1,6 @@
 ## Hi 👋, I'm Fahad ([/fähæð/][1])
 
-[ ![linkedin][linkedin-badge]][linkedin-link]
-[ ![devto][devto-badge]][devto-link]
-[ ![Mastodon Follow][mast-badge]][mast-link]
-[ ![stackoverflow][so-badge]][so-link]
+[ ![linkedin][linkedin-badge]][linkedin-link][ ![devto][devto-badge]][devto-link][ ![Mastodon Follow][mast-badge]][mast-link][ ![stackoverflow][so-badge]][so-link]
 
 <!--[![ko-fi](https://img.shields.io/badge/buy_me_a_ko--fi-FF5E5B.svg?style=for-the-badge&logo=ko-fi&logoColor=white) ](https://ko-fi.com/fa7ad) -->
 
@@ -27,9 +24,8 @@ I make web apps using [React] and stuff. I enjoy learning about new technology (
 
 ### Github Stats
 
-| ![ ][gh-stats-widget] | ![][mul-widget]                      |
-| --------------------: | :----------------------------------- |
-|    ![][streak-widget] | [![ ][spotify-widget]][spotify-link] |
+![][gh-stats-widget] ![][streak-widget]  
+![][mul-widget] [![][spotify-widget]][spotify-link]
 
 [linkedin-badge]: https://img.shields.io/badge/linkedin-%231E77B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
 [devto-badge]: https://img.shields.io/badge/dev.to-%2308090A.svg?style=for-the-badge&logo=dev.to&logoColor=white
@@ -53,7 +49,7 @@ I make web apps using [React] and stuff. I enjoy learning about new technology (
 [1]: http://ipa-reader.xyz/?text=f%C3%A4h%C3%A6%C3%B0&voice=Filiz
 [2]: https://www.zdnet.com/article/the-early-adopter-tax/
 
-[gh-stats-widget]: https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fa7ad&show_icons=true&count_private=true&hide_border=true&utm_source=123b25
-[mul-widget]: https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fa7ad&layout=compact&hide_border=true&show_icons=true&utm_source=123bm25
-[streak-widget]: https://github-readme-streak-stats.herokuapp.com/?user=fa7ad&utm_source=h12b3m25
-[spotify-widget]: https://spotify-github-profile.vercel.app/api/view?uid=fahadiam&cover_image=false&theme=default&bar_color=ffffff&bar_color_cover=true&utm_source=12b3m23
+[gh-stats-widget]: https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fa7ad&count_private=true&theme=radical&show_icons=true&card_width=480&utm_source=123b25
+[mul-widget]: https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fa7ad&layout=compact&card_width=430&show_icons=true&show_icons=true&theme=radical&utm_source=123bm25
+[streak-widget]: https://github-readme-streak-stats.herokuapp.com?user=fa7ad&theme=radical&card_width=480&date_format=%5BY.%5Dm.d&utm_source=h12b3m25
+[spotify-widget]: https://spotify-recently-played-readme.vercel.app/api?user=fahadiam&width=480&count=2&unique=1&utm_source=12b3m23
