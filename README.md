@@ -50,7 +50,7 @@ I make web apps using [React] and stuff. I enjoy learning about new technology (
 [1]: http://ipa-reader.xyz/?text=f%C3%A4h%C3%A6%C3%B0&voice=Filiz
 [2]: https://www.zdnet.com/article/the-early-adopter-tax/
 
-[gh-stats-widget]: https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fa7ad&count_private=true&theme=radical&show_icons=true&utm_source=123b25
-[streak-widget]: https://github-readme-streak-stats.herokuapp.com?user=fa7ad&theme=radical&card_width=360&date_format=d.m.y&utm_source=h12b3m25
-[mul-widget]: https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fa7ad&layout=compact&card_width=417&show_icons=true&show_icons=true&theme=radical&utm_source=123bm25
-[spotify-widget]: https://spotify-recently-played-readme.vercel.app/api?user=fahadiam&width=360&count=2&unique=1&utm_source=12b3m23
+[gh-stats-widget]: https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fa7ad&count_private=true&theme=radical&show_icons=true&utm_source=123b26
+[streak-widget]: https://github-readme-streak-stats.herokuapp.com?user=fa7ad&theme=radical&card_width=360&date_format=d.m.y&utm_source=h12b3m26
+[mul-widget]: https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fa7ad&layout=compact&card_width=417&show_icons=true&show_icons=true&theme=radical&utm_source=123bm26
+[spotify-widget]: https://spotify-recently-played-readme.vercel.app/api?user=fahadiam&width=360&count=2&unique=1&utm_source=12b3m26
