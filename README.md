@@ -22,7 +22,7 @@ I make web apps using [React] and stuff. I enjoy learning about new technology (
 - 📫 **How to reach me:** shoot a mail at _setname.fahad AT gmail.com_.
 - 💅 **Pronouns:** He/Him/His.
 
-### Github Stats
+---
 
 |![][gh-stats-widget] | ![][streak-widget]                  |
 | :-----------------: | :---------------------------------: |
