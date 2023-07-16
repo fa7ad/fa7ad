@@ -13,12 +13,12 @@ I make web apps using [React] and stuff. I enjoy learning about new technology (
 
 ### Rapidfire
 
-- 🔭 **I'm currently "working" on:** Producing more music ~~and [Mildly Boring (my blog)][blog]~~
-- 🌱 **I'm currently learning:** [ent] and [go]
+- 🔭 **I'm "working" on:** Producing more music ~~and [Mildly Boring (my blog)][blog]~~
+- 🌱 **I'm learning:** [k8s]
 - 👯 **I'm looking to collaborate on:** a techno track (PS. send me your samples 😁)
-- 💬 **Ask me about:** **react, redux, ramda, js, functional programming, and music**.
-- 📝 **I _<sup><sub>very occassionally</sub></sup>_ write articles on:** my blog [mildlyboring.com][blog] and [dev.to/fa7ad][devto-link].
-- 🔥 **Hot Take:** _coffee is the best beverage mankind has ever created_.
+- 💬 **Ask me about:** **react, redux, ramda, js, functional programming, coffee, and music**.
+- 📝 **I _<sup><sub>rarely</sub></sup>_ write articles on:** my blog [mildlyboring.com][blog] and [dev.to/fa7ad][devto-link].
+- 🔥 **Hot Take:** _☕️coffee is the best beverage mankind has ever created_.
 - 📫 **How to reach me:** shoot a mail at _setname.fahad AT gmail.com_.
 - 💅 **Pronouns:** He/Him/His.
 
@@ -40,8 +40,7 @@ I make web apps using [React] and stuff. I enjoy learning about new technology (
 [spotify-link]: https://open.spotify.com/track/48Zzcl2ifQpsVu1PHwnqKy
 
 [Virtual Minds]: https://virtualminds.de/en/
-[ent]: https://entgo.io/
-[go]: https://golang.org/
+[k8s]: https://kubernetes.io
 [@aws]: https://github.com/aws
 [Westwing]: https://github.com/Westwing-Home-and-Living
 [dh]: https://grameendh.com
