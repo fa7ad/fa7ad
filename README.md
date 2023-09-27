@@ -50,6 +50,6 @@ I make web apps using [React] and stuff. I enjoy learning about new technology (
 [2]: https://www.zdnet.com/article/the-early-adopter-tax/
 
 [gh-stats-widget]: https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fa7ad&count_private=true&theme=radical&show_icons=1&utm_source=23b26
-[streak-widget]: https://github-readme-streak-stats.herokuapp.com?user=fa7ad&theme=radical&border_radius=3&mode=weekly&card_width=360&utm_source=223x24
+[streak-widget]: https://github-readme-streak-stats-ei8cknvpq-fa7ad.vercel.app/?user=fa7ad&theme=radical&border_radius=4&mode=weekly&card_width=360&date_format=d.m.y
 [mul-widget]: https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fa7ad&layout=compact&card_width=417&show_icons=true&show_icons=true&theme=radical&utm_source=23bm26
 [spotify-widget]: https://spotify-recently-played-readme.vercel.app/api?user=fahadiam&width=360&count=2&unique=1&utm_source=2b3m26
