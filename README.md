@@ -7,7 +7,7 @@
 ### Glad to see you here!
 
 I'm a Software Engineer from Bangladesh; living in Berlin, Germany.
-I'm working as a _Senior Frontend Developer_ at [Virtual Minds] at the moment, formerly employed at [@aws], [Westwing], [Digital Health][dh], and a few other places.
+I'm working as a _Senior Frontend Developer_ at [Virtual Minds], formerly employed at [@aws], [Westwing], [Digital Health][dh], and a few other places.
 
 I make web apps using [React] and stuff. I enjoy learning about new technology (languages/frameworks/libraries/syntax…) and I'm usually willing to pay the [early-adopter tax][2] if the tech is awesome.
 
