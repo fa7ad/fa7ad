@@ -22,9 +22,42 @@ I make web apps using [React] and stuff. I enjoy learning about new technology (
 
 ---
 
-| ![gh-stats-widget-Dark]![gh-stats-widget-Light] |         ![][streak-widget]          |
-| :---------------------------------------------: | :---------------------------------: |
-|                 ![][mul-widget]                 | [![][spotify-widget]][spotify-link] |
+<table>
+  <thead>
+    <tr>
+      <th align="center">
+        <picture>
+          <source srcset="https://github-readme-stats.vercel.app/api?username=fa7ad&count_private=true&theme=radical&show_icons=true" media="(prefers-color-scheme: dark)" />
+          <source srcset="https://github-readme-stats.vercel.app/api?username=fa7ad&count_private=true&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+          <img src="https://github-readme-stats.vercel.app/api?username=fa7ad&count_private=true&show_icons=true" />
+        </picture>
+      </th>
+      <th align="center">
+        <picture>
+          <source srcset="https://github-readme-streak-stats-ei8cknvpq-fa7ad.vercel.app/?user=fa7ad&theme=radical&border_radius=4&mode=weekly&date_format=d.m.y&card_width=360" media="(prefers-color-scheme: dark)" />
+          <source srcset="https://github-readme-streak-stats-ei8cknvpq-fa7ad.vercel.app/?user=fa7ad&border_radius=4&mode=weekly&date_format=d.m.y&card_width=360" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+          <img src="https://github-readme-streak-stats-ei8cknvpq-fa7ad.vercel.app/?user=fa7ad&border_radius=4&mode=weekly&date_format=d.m.y&card_width=360" />
+        </picture>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <picture>
+          <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=fa7ad&layout=compact&card_width=417&show_icons=true&theme=radical" media="(prefers-color-scheme: dark)" />
+          <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=fa7ad&layout=compact&card_width=417&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fa7ad&layout=compact&card_width=417&show_icons=true" />
+        </picture>
+      </td>
+      <td align="center">
+        <a href="https://open.spotify.com/track/48Zzcl2ifQpsVu1PHwnqKy">
+          <img src="https://spotify-recently-played-readme.vercel.app/api?user=fahadiam&width=360&count=2&unique=1" />
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <!-- badges -->
 
@@ -39,7 +72,6 @@ I make web apps using [React] and stuff. I enjoy learning about new technology (
 [devto-link]: https://dev.to/fa7ad
 [mast-link]: https://c.im/@fa7ad
 [so-link]: https://stackoverflow.com/users/3639506/trve-fa7ad
-[spotify-link]: https://open.spotify.com/track/48Zzcl2ifQpsVu1PHwnqKy
 
 <!-- orgs -->
 
@@ -55,11 +87,3 @@ I make web apps using [React] and stuff. I enjoy learning about new technology (
 
 [1]: http://ipa-reader.xyz/?text=f%C3%A4h%C3%A6%C3%B0&voice=Filiz
 [2]: https://www.zdnet.com/article/the-early-adopter-tax/
-
-<!-- widgets -->
-
-[gh-stats-widget-Dark]: https://github-readme-stats.vercel.app/api?username=fa7ad&count_private=true&theme=radical&show_icons=true#gh-dark-mode-only "Github Stats"
-[gh-stats-widget-Light]: https://github-readme-stats.vercel.app/api?username=fa7ad&count_private=true&show_icons=true#gh-light-mode-only "Github Stats"
-[streak-widget]: https://github-readme-streak-stats-ei8cknvpq-fa7ad.vercel.app/?user=fa7ad&theme=radical&border_radius=4&mode=weekly&date_format=d.m.y&card_width=360
-[mul-widget]: https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fa7ad&layout=compact&card_width=417&show_icons=true&show_icons=true&theme=radical&utm_source=33bm26
-[spotify-widget]: https://spotify-recently-played-readme.vercel.app/api?user=fahadiam&width=360&count=2&unique=1&utm_source=2b33m26
