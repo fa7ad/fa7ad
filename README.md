@@ -49,7 +49,7 @@ I make web apps using [React] and stuff. I enjoy learning about new technology (
 [1]: http://ipa-reader.xyz/?text=f%C3%A4h%C3%A6%C3%B0&voice=Filiz
 [2]: https://www.zdnet.com/article/the-early-adopter-tax/
 
-[gh-stats-widget]: https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fa7ad&count_private=true&theme=radical&show_icons=1&utm_source=33b26
+[gh-stats-widget]: https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fa7ad&count_private=true&theme=radical&show_icons=1&utm_source=332b26
 [streak-widget]: https://github-readme-streak-stats-ei8cknvpq-fa7ad.vercel.app/?user=fa7ad&theme=radical&border_radius=4&mode=weekly&date_format=d.m.y&card_width=360
 [mul-widget]: https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fa7ad&layout=compact&card_width=417&show_icons=true&show_icons=true&theme=radical&utm_source=33bm26
 [spotify-widget]: https://spotify-recently-played-readme.vercel.app/api?user=fahadiam&width=360&count=2&unique=1&utm_source=2b33m26
