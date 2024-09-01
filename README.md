@@ -13,11 +13,10 @@ I make web apps using [React] and stuff. I enjoy learning about new technology (
 
 - 🔭 **I'm "working" on:** Producing more music ~~and [Mildly Boring (my blog)][blog]~~
 - 🌱 **I'm learning:** [k8s]
-- 👯 **I'm looking to collaborate on:** a techno track (PS. send me your samples 😁)
 - 💬 **Ask me about:** **react, redux, ramda, js, functional programming, coffee, and music**.
 - 📝 **I _<sup><sub>rarely</sub></sup>_ write articles on:** my blog [mildlyboring.com][blog] and [dev.to/fa7ad][devto-link].
 - 🔥 **Hot Take:** _☕️coffee is the best beverage mankind has ever created_.
-- 📫 **How to reach me:** shoot a mail at _setname.fahad AT gmail.com_.
+- 📫 **How to reach me:** shoot a mail at _fahad AT mildlyboring.com_.
 - 💅 **Pronouns:** He/Him/His.
 
 ---
