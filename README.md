@@ -84,5 +84,5 @@ I make web apps using [React] and stuff. I enjoy learning about new technology (
 
 <!-- unnamed links -->
 
-[1]: http://ipa-reader.xyz/?text=f%C3%A4h%C3%A6%C3%B0&voice=Filiz
+[1]: https://ipa-reader.com/?text=f%C3%A4h%C3%A6%C3%B0&voice=Filiz
 [2]: https://www.zdnet.com/article/the-early-adopter-tax/
