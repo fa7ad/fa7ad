@@ -44,9 +44,9 @@ I make web apps using [React] and stuff. I enjoy learning about new technology (
     <tr>
       <td align="center">
         <picture>
-          <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=fa7ad&layout=compact&card_width=417&show_icons=true&theme=radical" media="(prefers-color-scheme: dark)" />
-          <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=fa7ad&layout=compact&card_width=417&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fa7ad&layout=compact&card_width=417&show_icons=true" />
+          <source srcset="https://gh-stats-black.vercel.app/api/top-langs/?username=fa7ad&layout=compact&card_width=417&show_icons=true&theme=radical" media="(prefers-color-scheme: dark)" />
+          <source srcset="https://gh-stats-black.vercel.app/api/top-langs/?username=fa7ad&layout=compact&card_width=417&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+          <img src="https://gh-stats-black.vercel.app/api/top-langs/?username=fa7ad&layout=compact&card_width=417&show_icons=true" />
         </picture>
       </td>
       <td align="center">
