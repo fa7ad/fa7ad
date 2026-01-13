@@ -26,9 +26,9 @@ I make web apps using [React] and stuff. I enjoy learning about new technology (
     <tr>
       <th align="center">
         <picture>
-          <source srcset="https://github-readme-stats.vercel.app/api?username=fa7ad&count_private=true&theme=radical&show_icons=true" media="(prefers-color-scheme: dark)" />
-          <source srcset="https://github-readme-stats.vercel.app/api?username=fa7ad&count_private=true&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-          <img src="https://github-readme-stats.vercel.app/api?username=fa7ad&count_private=true&show_icons=true" />
+          <source srcset="https://gh-stats-black.vercel.app/api?username=fa7ad&count_private=true&theme=radical&show_icons=true" media="(prefers-color-scheme: dark)" />
+          <source srcset="https://gh-stats-black.vercel.app/api?username=fa7ad&count_private=true&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+          <img src="https://gh-stats-black.vercel.app/api?username=fa7ad&count_private=true&show_icons=true" />
         </picture>
       </th>
       <th align="center">
