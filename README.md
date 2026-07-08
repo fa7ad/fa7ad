@@ -33,9 +33,9 @@ I make web apps using [React] and stuff. I enjoy learning about new technology (
       </th>
       <th align="center">
         <picture>
-          <source srcset="https://github-readme-streak-stats-psi-five.vercel.app?user=fa7ad&theme=radical&border_radius=4&mode=weekly&date_format=d.m.y&card_width=360" media="(prefers-color-scheme: dark)" />
-          <source srcset="https://github-readme-streak-stats-psi-five.vercel.app?user=fa7ad&border_radius=4&mode=weekly&date_format=d.m.y&card_width=360" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-          <img src="https://github-readme-streak-stats-psi-five.vercel.app/?user=fa7ad&border_radius=4&mode=weekly&date_format=d.m.y&card_width=360" />
+          <source srcset="https://github-readme-streak-stats-skg1.vercel.app/?user=fa7ad&theme=radical&border_radius=4&mode=weekly&date_format=d.m.y&card_width=360" media="(prefers-color-scheme: dark)" />
+          <source srcset="https://github-readme-streak-stats-skg1.vercel.app/?user=fa7ad&border_radius=4&mode=weekly&date_format=d.m.y&card_width=360" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+          <img src="https://github-readme-streak-stats-skg1.vercel.app/?user=fa7ad&border_radius=4&mode=weekly&date_format=d.m.y&card_width=360" />
         </picture>
       </th>
     </tr>
