@@ -26,16 +26,16 @@ I make web apps using [React] and stuff. I enjoy learning about new technology (
     <tr>
       <th align="center">
         <picture>
-          <source srcset="https://gh-stats-black.vercel.app/api?username=fa7ad&count_private=true&theme=radical&show_icons=true" media="(prefers-color-scheme: dark)" />
-          <source srcset="https://gh-stats-black.vercel.app/api?username=fa7ad&count_private=true&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-          <img src="https://gh-stats-black.vercel.app/api?username=fa7ad&count_private=true&show_icons=true" />
+          <source srcset="https://github-stats-extended.vercel.app/api?username=fa7ad&hide_title=true&show_icons=true&include_all_commits=true&theme=radical" media="(prefers-color-scheme: dark)" />
+          <source srcset="https://github-stats-extended.vercel.app/api?username=fa7ad&hide_title=true&show_icons=true&include_all_commits=true&theme=radical" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+          <img src="https://github-stats-extended.vercel.app/api?username=fa7ad&hide_title=true&show_icons=true&include_all_commits=true&theme=radical" />
         </picture>
       </th>
       <th align="center">
         <picture>
-          <source srcset="https://github-readme-streak-stats-skg1.vercel.app/?user=fa7ad&theme=radical&border_radius=4&mode=weekly&date_format=d.m.y&card_width=360" media="(prefers-color-scheme: dark)" />
-          <source srcset="https://github-readme-streak-stats-skg1.vercel.app/?user=fa7ad&border_radius=4&mode=weekly&date_format=d.m.y&card_width=360" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-          <img src="https://github-readme-streak-stats-skg1.vercel.app/?user=fa7ad&border_radius=4&mode=weekly&date_format=d.m.y&card_width=360" />
+          <source srcset="https://streak-stats.demolab.com?user=fa7ad&theme=radical&date_format=%5BY.%5Dn.j&mode=weekly" media="(prefers-color-scheme: dark)" />
+          <source srcset="https://streak-stats.demolab.com?user=fa7ad&theme=radical&date_format=%5BY.%5Dn.j&mode=weekly" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+          <img src="https://streak-stats.demolab.com?user=fa7ad&theme=radical&date_format=%5BY.%5Dn.j&mode=weekly" />
         </picture>
       </th>
     </tr>
@@ -44,9 +44,9 @@ I make web apps using [React] and stuff. I enjoy learning about new technology (
     <tr>
       <td align="center">
         <picture>
-          <source srcset="https://gh-stats-black.vercel.app/api/top-langs/?username=fa7ad&layout=compact&card_width=417&show_icons=true&theme=radical" media="(prefers-color-scheme: dark)" />
-          <source srcset="https://gh-stats-black.vercel.app/api/top-langs/?username=fa7ad&layout=compact&card_width=417&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-          <img src="https://gh-stats-black.vercel.app/api/top-langs/?username=fa7ad&layout=compact&card_width=417&show_icons=true" />
+          <source srcset="https://github-stats-extended.vercel.app/api/top-langs?username=fa7ad&layout=compact&hide_title=true&langs_count=6&hide_values=true&theme=radical" media="(prefers-color-scheme: dark)" />
+          <source srcset="https://github-stats-extended.vercel.app/api/top-langs?username=fa7ad&layout=compact&hide_title=true&langs_count=6&hide_values=true&theme=radical" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+          <img src="https://github-stats-extended.vercel.app/api/top-langs?username=fa7ad&layout=compact&hide_title=true&langs_count=6&hide_values=true&theme=radical" />
         </picture>
       </td>
       <td align="center">
